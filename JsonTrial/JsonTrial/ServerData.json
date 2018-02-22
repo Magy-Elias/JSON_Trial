@@ -1,0 +1,90 @@
+{
+  "resultCode": 200,
+  "errorKey": null,
+  "result": [
+    {
+      "accessId": "isxbDsrBmguQqGB6Y",
+      "isAnyTime": false,
+      "range": 0,
+      "repeatInterval": "everyDay",
+      "on": null,
+      "startDate": "2017-10-29T10:26:34.607Z",
+      "expirationDate": "2017-10-31T10:26:41.310Z",
+      "fromTime": "04:00:00",
+      "toTime": "04:00:00"
+    },
+    {
+      "accessId": "isxbDsrBmguQqGB6Y",
+      "isAnyTime": false,
+      "range": 0,
+      "repeatInterval": "everyDay",
+      "on": null,
+      "startDate": "2017-10-30T10:25:46.851Z",
+      "expirationDate": "2017-10-31T10:25:54.581Z",
+      "fromTime": "03:00:00",
+      "toTime": "03:00:00"
+    },
+    {
+      "accessId": "isxbDsrBmguQqGB6Y",
+      "isAnyTime": false,
+      "range": 0,
+      "repeatInterval": "everyDay",
+      "on": null,
+      "startDate": "2017-10-30T10:26:04.171Z",
+      "expirationDate": "2017-10-31T10:26:08.685Z",
+      "fromTime": "04:00:00",
+      "toTime": "05:00:00"
+    },
+    {
+      "accessId": "isxbDsrBmguQqGB6Y",
+      "isAnyTime": false,
+      "range": 0,
+      "repeatInterval": "everyDay",
+      "on": null,
+      "startDate": "2017-10-31T10:26:18.145Z",
+      "expirationDate": "2017-10-31T10:26:22.049Z",
+      "fromTime": "02:00:00",
+      "toTime": "03:00:00"
+    },
+    {
+      "accessId": "isxbDsrBmguQqGB6Y",
+      "isAnyTime": false,
+      "range": 0,
+      "repeatInterval": "weekDays",
+      "on": [
+        "tuesday"
+      ],
+      "startDate": "2017-10-22T10:15:45.696Z",
+      "expirationDate": "2017-10-23T10:15:48.582Z",
+      "fromTime": "03:00:00",
+      "toTime": "03:00:00"
+    },
+    {
+      "accessId": "isxbDsrBmguQqGB6Y",
+      "isAnyTime": false,
+      "range": 0,
+      "repeatInterval": "weekDays",
+      "on": [
+        "tuesday",
+        "wednesday"
+      ],
+      "startDate": "2017-10-29T10:27:36.967Z",
+      "expirationDate": "2017-10-31T10:27:41.502Z",
+      "fromTime": "02:00:00",
+      "toTime": "03:00:00"
+    },
+    {
+      "accessId": "isxbDsrBmguQqGB6Y",
+      "isAnyTime": false,
+      "range": 0,
+      "repeatInterval": "weekDays",
+      "on": [
+        "wednesday"
+      ],
+      "startDate": "2017-10-30T10:29:34.426Z",
+      "expirationDate": "2017-10-31T10:30:15.709Z",
+      "fromTime": "03:00:00",
+      "toTime": "05:00:00"
+    }
+  ]
+}
